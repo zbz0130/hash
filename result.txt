@@ -1,0 +1,23 @@
+left: 1 bad_hashing 2 good_hashing
+right: 0 linear_probe 1 quadratic_probe 2 public_overflow
+2000 insertions,2000 queries 80% repeat probability:
+1 0 0.046700
+1 1 0.007731
+1 2 0.028569
+2 0 0.006221
+2 1 0.009966
+2 2 0.007872
+2000 insertions,2000 queries 20% repeat probability:
+1 0 0.025202
+1 1 0.010657
+1 2 0.031554
+2 0 0.009681
+2 1 0.005908
+2 2 0.008932
+2000 insertions,4000 queries 20% repeat probability:
+1 0 0.129891
+1 1 0.019029
+1 2 0.056297
+2 0 0.016093
+2 1 0.015100
+2 2 0.013202
